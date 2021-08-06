@@ -1,0 +1,346 @@
+2021-07-13 16:04:41,468 - banking -INFO - url open
+2021-07-13 16:04:41,565 - banking -INFO - user name entered
+2021-07-13 16:04:41,619 - banking -INFO - password entered
+2021-07-13 16:26:54,631 - banking -INFO - url open
+2021-07-13 16:26:54,744 - banking -INFO - user name entered
+2021-07-13 16:26:54,803 - banking -INFO - password entered
+2021-07-13 16:32:17,568 - banking -INFO - url open
+2021-07-13 16:32:17,665 - banking -INFO - user name entered
+2021-07-13 16:32:17,718 - banking -INFO - password entered
+2021-07-13 16:34:52,804 - banking -INFO - url open
+2021-07-13 16:34:52,915 - banking -INFO - user name entered
+2021-07-13 16:34:52,968 - banking -INFO - password entered
+2021-07-13 16:43:43,226 - banking -INFO - url open
+2021-07-13 16:43:43,326 - banking -INFO - user name entered
+2021-07-13 16:43:43,378 - banking -INFO - password entered
+2021-07-13 16:45:50,553 - banking -INFO - url open
+2021-07-13 16:45:50,655 - banking -INFO - user name entered
+2021-07-13 16:45:50,713 - banking -INFO - password entered
+2021-07-13 17:10:16,093 - banking -INFO - url open
+2021-07-13 17:10:16,192 - banking -INFO - user name entered
+2021-07-13 17:10:16,246 - banking -INFO - password entered
+2021-07-14 12:36:05,616 - banking -INFO - url open
+2021-07-14 12:36:05,721 - banking -INFO - user name entered
+2021-07-14 12:36:05,781 - banking -INFO - password entered
+2021-07-14 15:24:04,583 - banking -INFO - url open
+2021-07-14 15:24:04,808 - banking -INFO - user name entered
+2021-07-14 15:24:04,891 - banking -INFO - password entered
+2021-07-27 21:49:59,111 - banking -INFO - user name entered
+2021-07-27 21:49:59,218 - banking -INFO - user password entered
+2021-07-27 21:50:04,213 - banking -INFO - clicked life insurance Webelement
+2021-07-27 21:50:04,295 - banking -INFO - email id entered
+2021-07-27 21:50:04,373 - banking -INFO - password entered
+2021-07-27 21:50:06,799 - banking -INFO - submit bitton entered
+2021-07-27 21:50:06,833 - banking -INFO - test case pass
+2021-07-27 21:51:13,052 - banking -INFO - user name entered
+2021-07-27 21:51:13,149 - banking -INFO - user password entered
+2021-07-27 21:51:20,001 - banking -INFO - clicked life insurance Webelement
+2021-07-27 21:51:20,144 - banking -INFO - email id entered
+2021-07-27 21:51:20,234 - banking -INFO - password entered
+2021-07-27 21:51:24,533 - banking -INFO - submit bitton entered
+2021-07-27 21:51:24,586 - banking -WARN - testcase fail
+2021-07-27 21:52:21,126 - banking -INFO - user name entered
+2021-07-27 21:52:21,393 - banking -INFO - user password entered
+2021-07-27 21:52:27,446 - banking -INFO - clicked life insurance Webelement
+2021-07-27 21:52:27,602 - banking -INFO - email id entered
+2021-07-27 21:52:27,694 - banking -INFO - password entered
+2021-07-27 21:52:31,131 - banking -INFO - submit bitton entered
+2021-07-27 21:52:31,232 - banking -WARN - testcase fail
+2021-07-28 00:10:20,134 - banking -INFO - user name entered
+2021-07-28 00:10:20,260 - banking -INFO - user password entered
+2021-07-28 00:11:40,038 - banking -INFO - user name entered
+2021-07-28 00:11:40,144 - banking -INFO - user password entered
+2021-07-28 00:20:56,930 - banking -INFO - user name entered
+2021-07-28 00:20:57,188 - banking -INFO - user password entered
+2021-07-28 00:24:40,188 - banking -INFO - user name entered
+2021-07-28 00:24:40,306 - banking -INFO - user password entered
+2021-07-28 00:24:44,596 - banking -INFO - clicked insurance project
+2021-07-28 00:24:45,263 - banking -INFO - clicked Register
+2021-07-28 00:24:45,340 - banking -INFO - clicked on the Dropdown box
+2021-07-28 00:24:45,456 - banking -INFO - Selected Doctor
+2021-07-28 00:24:45,561 - banking -INFO - first name entered
+2021-07-28 00:24:45,684 - banking -INFO - last name entered
+2021-07-28 00:24:45,759 - banking -INFO - phone number entered
+2021-07-28 00:37:48,581 - banking -INFO - user name entered
+2021-07-28 00:37:48,796 - banking -INFO - user password entered
+2021-07-28 00:37:53,478 - banking -INFO - clicked insurance project
+2021-07-28 00:37:54,034 - banking -INFO - clicked Register
+2021-07-28 00:37:54,111 - banking -INFO - clicked on the Dropdown box
+2021-07-28 00:37:54,260 - banking -INFO - Selected Doctor
+2021-07-28 00:37:54,374 - banking -INFO - first name entered
+2021-07-28 00:37:54,502 - banking -INFO - last name entered
+2021-07-28 00:37:54,611 - banking -INFO - phone number entered
+2021-07-28 00:38:32,719 - banking -INFO - user name entered
+2021-07-28 00:38:32,857 - banking -INFO - user password entered
+2021-07-28 00:38:36,784 - banking -INFO - clicked insurance project
+2021-07-28 00:38:37,307 - banking -INFO - clicked Register
+2021-07-28 00:38:37,386 - banking -INFO - clicked on the Dropdown box
+2021-07-28 00:38:37,528 - banking -INFO - Selected Doctor
+2021-07-28 00:38:37,623 - banking -INFO - first name entered
+2021-07-28 00:38:37,702 - banking -INFO - last name entered
+2021-07-28 00:38:37,801 - banking -INFO - phone number entered
+2021-07-28 01:18:12,623 - banking -INFO - user name entered
+2021-07-28 01:18:12,795 - banking -INFO - user password entered
+2021-07-28 01:18:16,625 - banking -INFO - clicked insurance project
+2021-07-28 01:18:17,199 - banking -INFO - clicked Register
+2021-07-28 01:18:17,281 - banking -INFO - clicked on the Dropdown box
+2021-07-28 01:18:17,391 - banking -INFO - Selected Doctor
+2021-07-28 01:18:17,453 - banking -INFO - first name entered
+2021-07-28 01:18:17,511 - banking -INFO - last name entered
+2021-07-28 01:18:17,568 - banking -INFO - phone number entered
+2021-07-28 01:18:17,735 - banking -INFO - year entered
+2021-07-28 01:18:17,941 - banking -INFO - month  entered
+2021-07-28 01:18:18,066 - banking -INFO - date entered
+2021-07-28 01:18:18,120 - banking -INFO - radio btn2 selected
+2021-07-28 01:18:18,275 - banking -INFO - licence period entered
+2021-07-28 01:18:18,362 - banking -INFO - doctor selected
+2021-07-28 01:18:18,456 - banking -INFO - doctor selected
+2021-07-28 01:18:18,533 - banking -INFO - address entered
+2021-07-28 01:18:18,577 - banking -INFO - city entered
+2021-07-28 01:18:18,632 - banking -INFO - country entered
+2021-07-28 01:18:18,685 - banking -INFO - pin entered
+2021-07-28 01:21:16,500 - banking -INFO - user name entered
+2021-07-28 01:21:16,625 - banking -INFO - user password entered
+2021-07-28 01:21:20,610 - banking -INFO - clicked insurance project
+2021-07-28 01:21:21,611 - banking -INFO - clicked Register
+2021-07-28 01:21:21,669 - banking -INFO - clicked on the Dropdown box
+2021-07-28 01:21:21,767 - banking -INFO - Selected Doctor
+2021-07-28 01:21:21,840 - banking -INFO - first name entered
+2021-07-28 01:21:21,893 - banking -INFO - last name entered
+2021-07-28 01:21:21,984 - banking -INFO - phone number entered
+2021-07-28 01:21:22,198 - banking -INFO - year entered
+2021-07-28 01:21:22,329 - banking -INFO - month  entered
+2021-07-28 01:21:22,474 - banking -INFO - date entered
+2021-07-28 01:21:22,526 - banking -INFO - radio btn2 selected
+2021-07-28 01:21:22,752 - banking -INFO - licence period entered
+2021-07-28 01:21:22,847 - banking -INFO - doctor selected
+2021-07-28 01:21:22,920 - banking -INFO - doctor selected
+2021-07-28 01:21:22,975 - banking -INFO - address entered
+2021-07-28 01:21:23,036 - banking -INFO - city entered
+2021-07-28 01:21:23,094 - banking -INFO - country entered
+2021-07-28 01:21:23,150 - banking -INFO - pin entered
+2021-07-28 01:21:23,244 - banking -INFO - mail entered
+2021-07-28 01:21:23,325 - banking -INFO - password entered
+2021-07-28 01:21:23,418 - banking -INFO - conform password entered
+2021-07-28 01:21:24,477 - banking -INFO - login entered
+2021-07-28 01:23:51,777 - banking -INFO - user name entered
+2021-07-28 01:23:51,933 - banking -INFO - user password entered
+2021-07-28 01:23:55,803 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:23:55,846 - banking -INFO - email id entered
+2021-07-28 01:23:55,899 - banking -INFO - password entered
+2021-07-28 01:23:58,727 - banking -INFO - submit bitton entered
+2021-07-28 01:23:58,749 - banking -WARN - testcase fail
+2021-07-28 01:24:49,965 - banking -INFO - user name entered
+2021-07-28 01:24:50,167 - banking -INFO - user password entered
+2021-07-28 01:24:54,649 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:24:54,693 - banking -INFO - email id entered
+2021-07-28 01:24:54,749 - banking -INFO - password entered
+2021-07-28 01:24:57,249 - banking -INFO - submit bitton entered
+2021-07-28 01:24:57,275 - banking -INFO - test case pass
+2021-07-28 01:25:47,509 - banking -INFO - user name entered
+2021-07-28 01:25:47,667 - banking -INFO - user password entered
+2021-07-28 01:25:52,302 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:25:52,352 - banking -INFO - email id entered
+2021-07-28 01:25:52,408 - banking -INFO - password entered
+2021-07-28 01:25:54,939 - banking -INFO - submit bitton entered
+2021-07-28 01:25:54,970 - banking -INFO - test case pass
+2021-07-28 01:26:34,833 - banking -INFO - user name entered
+2021-07-28 01:26:34,967 - banking -INFO - user password entered
+2021-07-28 01:26:38,676 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:26:38,723 - banking -INFO - email id entered
+2021-07-28 01:26:38,778 - banking -INFO - password entered
+2021-07-28 01:26:41,295 - banking -INFO - submit bitton entered
+2021-07-28 01:26:41,318 - banking -INFO - test case pass
+2021-07-28 01:27:34,894 - banking -INFO - user name entered
+2021-07-28 01:27:35,027 - banking -INFO - user password entered
+2021-07-28 01:27:38,524 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:27:38,570 - banking -INFO - email id entered
+2021-07-28 01:27:38,626 - banking -INFO - password entered
+2021-07-28 01:27:41,352 - banking -INFO - submit bitton entered
+2021-07-28 01:27:41,378 - banking -INFO - test case pass
+2021-07-28 01:30:17,449 - banking -INFO - user name entered
+2021-07-28 01:30:17,599 - banking -INFO - user password entered
+2021-07-28 01:30:21,717 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:30:21,791 - banking -INFO - email id entered
+2021-07-28 01:30:21,851 - banking -INFO - password entered
+2021-07-28 01:30:24,090 - banking -INFO - submit bitton entered
+2021-07-28 01:30:24,117 - banking -INFO - test case pass
+2021-07-28 01:34:35,495 - banking -INFO - user name entered
+2021-07-28 01:34:35,625 - banking -INFO - user password entered
+2021-07-28 01:34:40,269 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:34:40,314 - banking -INFO - email id entered
+2021-07-28 01:34:40,373 - banking -INFO - password entered
+2021-07-28 01:34:43,016 - banking -INFO - submit bitton entered
+2021-07-28 01:34:43,045 - banking -INFO - test case pass
+2021-07-28 01:35:40,004 - banking -INFO - user name entered
+2021-07-28 01:35:40,144 - banking -INFO - user password entered
+2021-07-28 01:35:45,237 - banking -INFO - clicked insurance project
+2021-07-28 01:35:45,833 - banking -INFO - clicked Register
+2021-07-28 01:35:45,894 - banking -INFO - clicked on the Dropdown box
+2021-07-28 01:35:46,002 - banking -INFO - Selected Doctor
+2021-07-28 01:35:46,076 - banking -INFO - first name entered
+2021-07-28 01:35:46,154 - banking -INFO - last name entered
+2021-07-28 01:35:46,278 - banking -INFO - phone number entered
+2021-07-28 01:35:46,489 - banking -INFO - year entered
+2021-07-28 01:35:46,633 - banking -INFO - month  entered
+2021-07-28 01:35:46,784 - banking -INFO - date entered
+2021-07-28 01:35:46,871 - banking -INFO - radio btn2 selected
+2021-07-28 01:35:47,050 - banking -INFO - licence period entered
+2021-07-28 01:35:47,107 - banking -INFO - doctor selected
+2021-07-28 01:35:47,183 - banking -INFO - doctor selected
+2021-07-28 01:35:47,238 - banking -INFO - address entered
+2021-07-28 01:35:47,293 - banking -INFO - city entered
+2021-07-28 01:35:47,352 - banking -INFO - country entered
+2021-07-28 01:35:47,419 - banking -INFO - pin entered
+2021-07-28 01:35:47,565 - banking -INFO - mail entered
+2021-07-28 01:35:47,641 - banking -INFO - password entered
+2021-07-28 01:35:47,693 - banking -INFO - conform password entered
+2021-07-28 01:35:49,119 - banking -INFO - login entered
+2021-07-28 01:36:48,582 - banking -INFO - user name entered
+2021-07-28 01:36:48,702 - banking -INFO - user password entered
+2021-07-28 01:36:52,931 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:36:52,976 - banking -INFO - email id entered
+2021-07-28 01:36:53,030 - banking -INFO - password entered
+2021-07-28 01:36:55,561 - banking -INFO - submit bitton entered
+2021-07-28 01:36:55,587 - banking -INFO - test case pass
+2021-07-28 01:37:41,819 - banking -INFO - user name entered
+2021-07-28 01:37:41,913 - banking -INFO - user password entered
+2021-07-28 01:37:45,871 - banking -INFO - clicked insurance project
+2021-07-28 01:37:46,670 - banking -INFO - clicked Register
+2021-07-28 01:37:46,758 - banking -INFO - clicked on the Dropdown box
+2021-07-28 01:37:46,873 - banking -INFO - Selected Doctor
+2021-07-28 01:37:46,947 - banking -INFO - first name entered
+2021-07-28 01:37:47,008 - banking -INFO - last name entered
+2021-07-28 01:37:47,065 - banking -INFO - phone number entered
+2021-07-28 01:37:47,233 - banking -INFO - year entered
+2021-07-28 01:37:47,443 - banking -INFO - month  entered
+2021-07-28 01:37:47,581 - banking -INFO - date entered
+2021-07-28 01:37:47,626 - banking -INFO - radio btn2 selected
+2021-07-28 01:37:47,766 - banking -INFO - licence period entered
+2021-07-28 01:37:47,841 - banking -INFO - doctor selected
+2021-07-28 01:37:47,961 - banking -INFO - doctor selected
+2021-07-28 01:37:48,033 - banking -INFO - address entered
+2021-07-28 01:37:48,087 - banking -INFO - city entered
+2021-07-28 01:37:48,136 - banking -INFO - country entered
+2021-07-28 01:37:48,189 - banking -INFO - pin entered
+2021-07-28 01:37:48,255 - banking -INFO - mail entered
+2021-07-28 01:37:48,311 - banking -INFO - password entered
+2021-07-28 01:37:48,368 - banking -INFO - conform password entered
+2021-07-28 01:37:50,057 - banking -INFO - login entered
+2021-07-28 01:39:46,424 - banking -INFO - user name entered
+2021-07-28 01:39:46,565 - banking -INFO - user password entered
+2021-07-28 01:39:50,677 - banking -INFO - clicked life insurance Webelement
+2021-07-28 01:39:50,722 - banking -INFO - email id entered
+2021-07-28 01:39:50,775 - banking -INFO - password entered
+2021-07-28 01:39:53,594 - banking -INFO - submit bitton entered
+2021-07-28 01:39:53,622 - banking -INFO - test case pass
+2021-07-29 11:48:00,979 - banking -INFO - user name entered
+2021-07-29 11:48:01,072 - banking -INFO - user password entered
+2021-07-29 11:48:06,275 - banking -INFO - clicked life insurance Webelement
+2021-07-29 11:48:06,346 - banking -INFO - email id entered
+2021-07-29 11:48:06,433 - banking -INFO - password entered
+2021-07-29 11:48:09,334 - banking -INFO - submit bitton entered
+2021-07-29 11:48:09,372 - banking -INFO - test case pass
+2021-07-29 11:49:33,583 - banking -INFO - user name entered
+2021-07-29 11:49:33,717 - banking -INFO - user password entered
+2021-07-29 11:49:39,048 - banking -INFO - clicked life insurance Webelement
+2021-07-29 11:49:39,116 - banking -INFO - email id entered
+2021-07-29 11:49:39,209 - banking -INFO - password entered
+2021-07-29 11:49:44,979 - banking -INFO - submit bitton entered
+2021-07-29 11:49:45,022 - banking -INFO - test case pass
+2021-07-29 11:51:28,322 - banking -INFO - user name entered
+2021-07-29 11:51:28,427 - banking -INFO - user password entered
+2021-07-29 11:51:34,654 - banking -INFO - clicked life insurance Webelement
+2021-07-29 11:51:34,729 - banking -INFO - email id entered
+2021-07-29 11:51:34,812 - banking -INFO - password entered
+2021-07-29 11:51:39,151 - banking -INFO - submit bitton entered
+2021-07-29 11:51:39,189 - banking -INFO - test case pass
+2021-07-29 11:53:56,777 - banking -INFO - user name entered
+2021-07-29 11:53:56,884 - banking -INFO - user password entered
+2021-07-29 11:54:03,029 - banking -INFO - clicked insurance project
+2021-07-29 11:54:04,039 - banking -INFO - clicked Register
+2021-07-29 11:54:04,128 - banking -INFO - clicked on the Dropdown box
+2021-07-29 11:54:04,290 - banking -INFO - Selected Doctor
+2021-07-29 11:54:04,415 - banking -INFO - first name entered
+2021-07-29 11:54:04,501 - banking -INFO - last name entered
+2021-07-29 11:54:04,584 - banking -INFO - phone number entered
+2021-07-29 11:54:04,777 - banking -INFO - year entered
+2021-07-29 11:54:04,976 - banking -INFO - month  entered
+2021-07-29 11:54:05,227 - banking -INFO - date entered
+2021-07-29 11:54:05,309 - banking -INFO - radio btn2 selected
+2021-07-29 11:54:05,521 - banking -INFO - licence period entered
+2021-07-29 11:54:05,601 - banking -INFO - doctor selected
+2021-07-29 11:54:05,711 - banking -INFO - doctor selected
+2021-07-29 11:54:05,793 - banking -INFO - address entered
+2021-07-29 11:54:05,886 - banking -INFO - city entered
+2021-07-29 11:54:05,973 - banking -INFO - country entered
+2021-07-29 11:54:06,127 - banking -INFO - pin entered
+2021-07-29 11:54:06,285 - banking -INFO - mail entered
+2021-07-29 11:54:06,356 - banking -INFO - password entered
+2021-07-29 11:54:06,437 - banking -INFO - conform password entered
+2021-07-29 11:54:07,906 - banking -INFO - login entered
+2021-07-29 11:55:16,960 - banking -INFO - url open
+2021-07-29 11:55:17,288 - banking -INFO - user name entered
+2021-07-29 11:55:17,370 - banking -INFO - password entered
+2021-07-29 11:58:02,206 - banking -INFO - url open
+2021-07-29 11:58:02,379 - banking -INFO - user name entered
+2021-07-29 11:58:02,478 - banking -INFO - password entered
+2021-07-29 13:58:02,203 - banking -INFO - user name entered
+2021-07-29 13:58:02,462 - banking -INFO - user password entered
+2021-07-29 13:59:59,347 - banking -INFO - user name entered
+2021-07-29 13:59:59,488 - banking -INFO - user password entered
+2021-07-29 14:00:45,300 - banking -INFO - user name entered
+2021-07-29 14:00:45,452 - banking -INFO - user password entered
+2021-07-29 15:48:04,916 - banking -INFO - user name entered
+2021-07-29 15:48:05,019 - banking -INFO - user password entered
+2021-07-29 15:49:07,506 - banking -INFO - user name entered
+2021-07-29 15:49:07,610 - banking -INFO - user password entered
+2021-07-29 15:52:08,492 - banking -INFO - user name entered
+2021-07-29 15:52:08,618 - banking -INFO - user password entered
+2021-07-29 15:53:42,657 - banking -INFO - user name entered
+2021-07-29 15:53:42,770 - banking -INFO - user password entered
+2021-07-29 16:11:16,111 - banking -INFO - user name entered
+2021-07-29 16:11:16,207 - banking -INFO - user password entered
+2021-07-29 16:12:17,046 - banking -INFO - user name entered
+2021-07-29 16:12:17,149 - banking -INFO - user password entered
+2021-07-29 16:13:21,406 - banking -INFO - user name entered
+2021-07-29 16:13:21,750 - banking -INFO - user password entered
+2021-07-29 16:29:28,480 - banking -INFO - user name entered
+2021-07-29 16:29:28,614 - banking -INFO - user password entered
+2021-07-29 16:30:55,690 - banking -INFO - user name entered
+2021-07-29 16:30:55,811 - banking -INFO - user password entered
+2021-07-29 16:36:21,608 - banking -INFO - user name entered
+2021-07-29 16:36:21,787 - banking -INFO - user password entered
+2021-07-29 16:36:26,965 - banking -INFO - test case fail
+2021-07-29 16:38:14,521 - banking -INFO - user name entered
+2021-07-29 16:38:14,630 - banking -INFO - user password entered
+2021-07-29 16:38:18,640 - banking -INFO - test case fail
+2021-07-29 16:39:40,872 - banking -INFO - user name entered
+2021-07-29 16:39:41,012 - banking -INFO - user password entered
+2021-07-29 16:39:44,732 - banking -INFO - test case fail
+2021-07-29 16:40:17,900 - banking -INFO - user name entered
+2021-07-29 16:40:18,035 - banking -INFO - user password entered
+2021-07-29 16:40:22,819 - banking -INFO - test case pass
+2021-07-29 16:41:38,952 - banking -INFO - user name entered
+2021-07-29 16:41:39,107 - banking -INFO - user password entered
+2021-07-29 16:41:43,119 - banking -INFO - test case pass
+2021-07-29 16:42:28,781 - banking -INFO - user name entered
+2021-07-29 16:42:28,923 - banking -INFO - user password entered
+2021-07-29 16:42:33,035 - banking -INFO - test case pass
+2021-07-29 17:45:04,865 - banking -INFO - user name entered
+2021-07-29 17:45:04,978 - banking -INFO - user password entered
+2021-07-29 17:45:07,450 - banking -INFO - testcase fail
+2021-07-29 17:46:03,650 - banking -INFO - user name entered
+2021-07-29 17:46:03,725 - banking -INFO - user password entered
+2021-07-29 17:46:06,665 - banking -INFO - testcase pass
+2021-07-29 17:50:21,615 - banking -INFO - user name entered
+2021-07-29 17:50:21,697 - banking -INFO - user password entered
+2021-07-29 17:50:24,566 - banking -INFO - testcase pass
+2021-07-29 18:08:11,862 - banking -INFO - user name entered
+2021-07-29 18:08:12,065 - banking -INFO - user password entered
+2021-07-29 18:08:14,633 - banking -INFO - testcase pass
+2021-07-29 18:08:16,770 - banking -INFO - testcase pass
+2021-08-04 10:43:52,725 - banking -INFO - user name entered
+2021-08-04 10:43:52,799 - banking -INFO - user password entered
+2021-08-04 10:43:55,709 - banking -INFO - testcase pass
+2021-08-04 10:43:57,795 - banking -INFO - testcase pass
